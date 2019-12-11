@@ -1,0 +1,30 @@
+Equipos HBAL.
+1 Boundary condition
+2 Splitter
+3 Pressure drop
+4 Pump
+5 Mixer
+6 Boiler/Reactor
+7 FeedWater Heater
+8 Condenser
+9 Turbine with exhaust losses
+10 Turbine without exhaust losses
+11 Auxiliar turbine
+12 Connection Auxiliar turbine with FeedWater Pump
+13 Moisture separator
+14 Moisture reheater
+15 OffGas/Ejector Condenser
+16 Drainage cooler
+17 DeSuperHeater
+18 Deaerator
+19 Valve
+20 FixedEntalphySplitter
+21 FlashTank
+22 HeatExchanger
+23 SupercriticalHeatExchanger
+24 SupercriticalTurbine
+25 SupercriticalCompressor
+100 Generator
+
+Equipos SBAL
+Equipos Ebsilon

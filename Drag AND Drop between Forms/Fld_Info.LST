@@ -1,0 +1,2639 @@
+Do not change anything in this file, otherwise Refprop may not run correctly.
+To regenerate this file, simply delete it and run the REFPROP.EXE program.
+Each section below contains the following:
+Line  1:  Fluid file name (*.FLD or *.PPF)
+Line  2:  File file date and time (machine format)
+Line  3:  Fluid name
+Line  4:  Short fluid name
+Line  5:  Full fluid name
+Line  6:  Synonym
+Line  7:  CAS number
+Line  8:  Abbreviated chemical formula
+Line  9:  Full chemical formula
+Line 10:  UN number
+Line 11:  Molar mass
+Line 12:  Triple point temperature (K)
+Line 13:  Boiling point temperature (K)
+Line 14:  Critical point temperature (K)
+Line 15:  InChi Key
+Line 16:  REFPROP Hash number
+
+
+ACETYLENE.FLD
+ 43248337662 
+Acetylene   (Ethyne)
+Acetylene
+Ethyne
+Narcylen, vinylene
+74-86-2
+C2H2
+C2H2
+1001
+26.03728
+191.75
+188.260
+308.3
+HSFWRNGVRCDJHI-UHFFFAOYSA-N
+6283cfc0
+
+13BUTADIENE.FLD
+ 43248328078 
+1,3-Butadiene   (Buta-1,3-diene)
+1,3-Butadiene
+Buta-1,3-diene
+Vinylethylene
+106-99-0
+C4H6
+CH2=(CH)2=CH2
+1010
+54.09044
+164.25
+268.661
+425.135
+KAKZBPTYRLMSJV-UHFFFAOYSA-N
+cd07ca00
+
+22DIMETHYLBUTANE.FLD
+ 43246796226 
+2,2-Dimethylbutane
+2,2-Dimethylbutane
+2,2-Dimethylbutane
+Neohexane
+75-83-2
+C6H14
+(CH3)3CCH2CH3
+1208, 2457
+86.17536
+174.20
+322.846
+490.0
+HNRMPXKDFBEGFZ-UHFFFAOYSA-N
+c9396950
+
+23DIMETHYLBUTANE.FLD
+ 43246795949 
+2,3-Dimethylbutane
+2,3-Dimethylbutane
+2,3-Dimethylbutane
+Butane, 2,3-dimethyl-
+79-29-8
+C6H14
+(CH3)2CHCH(CH3)2
+1208, 2457
+86.17536
+145.05
+331.177
+500.6
+ZFFMLCVRJBZUDZ-UHFFFAOYSA-N
+bca9ff20
+
+3METHYLPENTANE.FLD
+ 43246795671 
+3-Methylpentane
+3-Methylpentane
+3-Methylpentane
+Pentane, 3-methyl-
+96-14-0
+C6H14
+(CH3CH2)2CHCH3
+1208, 2457
+86.17536
+110.263
+336.379
+506.0
+PFEOZHBOMNWTJB-UHFFFAOYSA-N
+5bd6f470
+
+CHLOROBENZENE.FLD
+ 43241583333 
+Chlorobenzene
+Chlorobenzene
+Chlorobenzene
+Phenyl chloride
+108-90-7
+C6H5Cl
+C6H5Cl
+1134
+112.557
+227.9
+405.21
+632.35
+MVPPADPHJFYWMZ-UHFFFAOYSA-N
+2366d210
+
+CYCLOBUTENE.FLD
+ 43248338935 
+Cyclobutene   (1-Cyclobutene)
+Cyclobutene
+1-Cyclobutene
+Cyclobutan-1,2-diyl
+822-35-5
+C4H6
+C4H6
+????
+54.09044
+150.0
+275.730
+448.0
+CFBGXYDUODCMNS-UHFFFAOYSA-N
+0b1a5d30
+
+ETHYLENEOXIDE.FLD
+ 43241583333 
+Ethylene oxide
+Ethylene oxide
+Ethylene oxide
+Oxirane
+75-21-8
+C2H4O
+C2H4O
+1040
+44.05256
+160.654
+283.660
+468.92
+IAYPIBMASNFSPL-UHFFFAOYSA-N
+557b13f0
+
+1BUTENE.FLD
+ 43241583333 
+Butene   (1-Butene)
+Butene
+1-Butene
+1-Butylene
+106-98-9
+C4H8
+CH3-CH2-CH=CH2
+1012
+56.10632
+87.8
+266.84
+419.29
+VXNZUUAINFGPBY-UHFFFAOYSA-N
+cd7a06d0
+
+PROPADIENE.FLD
+ 43248340462 
+Propadiene   (1,2-Propadiene)
+Propadiene
+1,2-Propadiene
+Allene
+463-49-0
+C3H4
+C3H4
+2200
+40.06386
+136.65
+240.874
+398.0
+IYABWNGZIDDRAK-UHFFFAOYSA-N
+46c6b6e0
+
+PROPYLENEOXIDE.FLD
+ 43248344328 
+Propylene oxide   (1,2-Epoxypropane)
+Propylene oxide
+1,2-Epoxypropane
+Methyloxirane
+75-56-9
+C3H6O
+CH3CHCH2O
+1280
+58.07914
+161.244
+307.268
+488.11
+GOOHAUXETOMSMM-UHFFFAOYSA-N
+814f4990
+
+R1336MZZZ.FLD
+ 43241583333 
+R1336mzz(Z)   ((Z)-1,1,1,4,4,4-Hexafluoro-2-butene)
+R1336mzz(Z)
+(Z)-1,1,1,4,4,4-Hexafluoro-2-butene
+HFO-1336mzz(Z)
+692-49-9
+C4H2F6
+CF3CH=CHCF3(Z)
+????
+164.056
+182.65
+306.603
+444.5
+NLOLSXYRJFEOTA-UPHRSURJSA-N
+8da378b0
+
+VINYLCHLORIDE.FLD
+ 43241583333 
+Vinyl chloride   (Chloroethylene)
+Vinyl chloride
+Chloroethylene
+R-1140
+75-01-4
+C2H3Cl
+C2H3Cl
+1086
+62.49822
+119.31
+259.443
+424.964
+BZHJMEDXRYGGRV-UHFFFAOYSA-N
+0b34bc40
+
+1BUTYNE.FLD
+ 43248329513 
+1-Butyne   (But-1-yne)
+1-Butyne
+But-1-yne
+Ethylacetylene
+107-00-6
+C4H6
+C4H6
+2452
+54.09044
+147.44
+281.230
+432.0
+KDKYADYSIPSCCQ-UHFFFAOYSA-N
+4bfbe360
+
+1PENTENE.FLD
+ 43248332222 
+1-Pentene   (Pent-1-ene)
+1-Pentene
+Pent-1-ene
+Propylethylene
+109-67-1
+C5H10
+C5H10
+1108
+70.1329
+107.797
+303.101
+465.74
+YWAKXRMUMFPDSH-UHFFFAOYSA-N
+1f061ca0
+
+ACETONE.FLD
+ 43241583333 
+Acetone   (Propanone)
+Acetone
+Propanone
+Dimethyl ketone
+67-64-1
+C3H6O
+(CH3)2CO
+1090
+58.07914
+178.5
+329.22
+508.1
+CSCPPACGZOOCGX-UHFFFAOYSA-N
+342481e0
+
+AMMONIA.FLD
+ 43252628356 
+Ammonia
+Ammonia
+Ammonia
+R-717
+7664-41-7
+NH3
+NH3
+1005
+17.03052
+195.49
+239.832
+405.56
+QGZKDVFQNNGYKY-UHFFFAOYSA-N
+e9847540
+
+ARGON.FLD
+ 43241583333 
+Argon
+Argon
+Argon
+R-740
+7440-37-1
+Ar
+Ar
+1951
+39.948
+83.8058
+87.302
+150.687
+XKRFYHLGVUSROY-UHFFFAOYSA-N
+ed016370
+
+BENZENE.FLD
+ 43241583333 
+Benzene
+Benzene
+Benzene
+Benzene
+71-43-2
+C6H6
+C6H6
+1114
+78.11184
+278.674
+353.219
+562.02
+UHOVQNZJYSORNB-UHFFFAOYSA-N
+f2cfb460
+
+BUTANE.FLD
+ 43241583333 
+Butane   (n-Butane)
+Butane
+n-Butane
+R-600
+106-97-8
+C4H10
+CH3-2(CH2)-CH3
+1011
+58.1222
+134.895
+272.660
+425.125
+IJDNQMDRQITEOD-UHFFFAOYSA-N
+7b3b4080
+
+C11.FLD
+ 43254318564 
+Undecane
+Undecane
+Undecane
+n-Undecane
+1120-21-4
+C11H24
+CH3-9(CH2)-CH3
+2330
+156.30826
+247.606
+468.934
+638.8
+RSJKGSCJYJTIGS-UHFFFAOYSA-N
+62f46c40
+
+C12.FLD
+ 43241583333 
+Dodecane
+Dodecane
+Dodecane
+n-Dodecane
+112-40-3
+C12H26
+CH3-10(CH2)-CH3
+????
+170.33484
+263.6
+489.442
+658.1
+SNRUBQQJIBEYMU-UHFFFAOYSA-N
+8bc8dec0
+
+C16.FLD
+ 43252396689 
+Hexadecane
+Hexadecane
+Hexadecane
+n-Hexadecane
+544-76-3
+C16H34
+C16H34
+????
+226.441
+291.329
+559.903
+722.1
+DCAYPVUWAIABOU-UHFFFAOYSA-N
+8cf1f140
+
+C1CC6.FLD
+ 43241583333 
+Methylcyclohexane
+Methylcyclohexane
+Methylcyclohexane
+Cyclohexylmethane
+108-87-2
+C7H14
+C6H11(CH3)
+2296
+98.18606
+146.7
+374.
+572.2
+UAEPNZWRGJTJPN-UHFFFAOYSA-N
+0429edd0
+
+C22.FLD
+ 43252397916 
+Docosane
+Docosane
+Docosane
+n-Docosane
+629-97-0
+C22H46
+C22H46
+????
+310.601
+317.04
+641.298
+792.2
+HOWGUJZVBDQJKV-UHFFFAOYSA-N
+508eb840
+
+C2BUTENE.FLD
+ 43241583333 
+cis-Butene   (cis-2-Butene)
+cis-Butene
+cis-2-Butene
+(Z)-2-Butene
+590-18-1
+C4H8
+CH3-CH=CH-CH3
+1012
+56.10632
+134.3
+276.87
+435.75
+IAQRGUVFOMOMEM-ARJAWSKDSA-N
+411c4500
+
+C3CC6.FLD
+ 43241583333 
+Propylcyclohexane   (n-Propylcyclohexane)
+Propylcyclohexane
+n-Propylcyclohexane
+Propylcyclohexane
+1678-92-8
+C9H18
+(C6H11)CH2CH2CH3
+????
+126.23922
+178.2
+429.856
+630.8
+DEDZSLCZHWTGOR-UHFFFAOYSA-N
+206f01b0
+
+C4F10.FLD
+ 43246795185 
+Perfluorobutane   (Decafluorobutane)
+Perfluorobutane
+Decafluorobutane
+Perfluorobutane
+355-25-9
+C4F10
+C4F10
+????
+238.027
+144.0
+271.123
+386.326
+KAVGMUDTWQVPDF-UHFFFAOYSA-N
+a8f85e00
+
+C5F12.FLD
+ 43246793634 
+Perfluoropentane   (Dodecafluoropentane)
+Perfluoropentane
+Dodecafluoropentane
+Perfluoropentane
+678-26-2
+C5F12
+C5F12
+????
+288.034
+148.21
+302.453
+421.0
+NJCBUSHGCBERSK-UHFFFAOYSA-N
+053a8820
+
+C6F14.FLD
+ 43246798194 
+Perfluorohexane   (Tetradecafluorohexane)
+Perfluorohexane
+Tetradecafluorohexane
+Perfluorohexane
+355-42-0
+C6F14
+C6F14
+????
+338.042
+187.07
+330.274
+448.0
+ZJIJAJXFLBMLCK-UHFFFAOYSA-N
+31895f40
+
+CF3I.FLD
+ 43241583333 
+R13I1   (Trifluoroiodomethane)
+R13I1
+Trifluoroiodomethane
+HFC-13I1
+2314-97-8
+CF3I
+CF3I
+????
+195.9104
+195.15
+251.291
+396.44
+VPAYJEUHKVESSD-UHFFFAOYSA-N
+d26ca240
+
+CHLORINE.FLD
+ 43241583333 
+Chlorine
+Chlorine
+Chlorine
+Chlorine
+7782-50-5
+Cl2
+Cl2
+1017
+70.906
+172.17
+239.198
+416.8654
+KZBUYRJDOAKODT-UHFFFAOYSA-N
+828f1c80
+
+CO.FLD
+ 43241583333 
+Carbon monoxide
+Carbon monoxide
+Carbon monoxide
+Carbon oxide
+630-08-0
+CO
+CO
+1016
+28.0101
+68.16
+81.64
+132.86
+UGFAIRIUMAVXCW-UHFFFAOYSA-N
+091cb7e0
+
+CO2.FLD
+ 43241583333 
+Carbon dioxide
+Carbon dioxide
+Carbon dioxide
+R-744
+124-38-9
+CO2
+CO2
+1013
+44.0098
+216.592
+194.686
+304.1282
+CURLTUGMZLYLDI-UHFFFAOYSA-N
+77c8bee0
+
+COS.FLD
+ 43241583333 
+Carbonyl sulfide   (Carbon oxide sulfide)
+Carbonyl sulfide
+Carbon oxide sulfide
+Carbon oxysulfide
+463-58-1
+COS
+COS
+2204
+60.0751
+134.3
+222.99
+378.77
+JJWKPURADFRFRB-UHFFFAOYSA-N
+e7f902e0
+
+CYCLOHEX.FLD
+ 43241583333 
+Cyclohexane
+Cyclohexane
+Cyclohexane
+Cyclohexane
+110-82-7
+C6H12
+cyclo-C6H12
+1145
+84.15948
+279.86
+353.865
+553.6
+XDTMQSROBMDMFD-UHFFFAOYSA-N
+6e225350
+
+CYCLOPEN.FLD
+ 43241583333 
+Cyclopentane
+Cyclopentane
+Cyclopentane
+C5H10
+287-92-3
+C5H10
+C5H10
+1146
+70.1329
+179.7
+322.40
+511.72
+RGSFGYAAUTVSQA-UHFFFAOYSA-N
+43ab1810
+
+CYCLOPRO.FLD
+ 43241583333 
+Cyclopropane
+Cyclopropane
+Cyclopropane
+Trimethylene
+75-19-4
+C3H6
+cyclo-C3H6
+1027
+42.081
+145.7
+241.67
+398.3
+LVZWSLJZHVFIQJ-UHFFFAOYSA-N
+bc9f5400
+
+D2.FLD
+ 43246803310 
+Deuterium
+Deuterium
+Deuterium
+Deuterium
+7782-39-0
+D2
+D2
+1957
+4.0282
+18.724
+23.661
+38.34
+UFHFLCQGNIYNRP-VVKOMZTBSA-N
+639b18a0
+
+D2O.FLD
+ 43241583333 
+Heavy water   (Deuterium oxide)
+Heavy water
+Deuterium oxide
+Deuterium oxide
+7789-20-0
+D2O
+D2O
+????
+20.027508
+276.969
+374.549
+643.847
+XLYOFNOQVPJJNP-ZSJDYOACSA-N
+3e131610
+
+D4.FLD
+ 43241583333 
+D4   (Octamethylcyclotetrasiloxane)
+D4
+Octamethylcyclotetrasiloxane
+D4
+556-67-2
+C8H24O4Si4
+C8H24O4Si4
+????
+296.61576
+290.25
+448.891
+586.5
+HMMGMWAXVFQUOA-UHFFFAOYSA-N
+b6895470
+
+D5.FLD
+ 43241583333 
+D5   (Decamethylcyclopentasiloxane)
+D5
+Decamethylcyclopentasiloxane
+D5
+541-02-6
+C10H30O5Si5
+C10H30O5Si5
+????
+370.7697
+226.0
+484.060
+618.3
+XMSXQFUHVRWGNA-UHFFFAOYSA-N
+ccbc27e0
+
+D6.FLD
+ 43241583333 
+D6   (Dodecamethylcyclohexasiloxane)
+D6
+Dodecamethylcyclohexasiloxane
+D6
+540-97-6
+C12H36Si6O6
+C12H36Si6O6
+????
+444.924
+270.2
+518.11
+645.78
+IUMSDRXLFWAGNT-UHFFFAOYSA-N
+1fad29d0
+
+DEA.FLD
+ 43241583333 
+Diethanolamine   (2,2'-Iminodiethanol)
+Diethanolamine
+2,2'-Iminodiethanol
+bis(2-hydroxyethyl)Amine
+111-42-2
+C4H11NO2
+HN(CH2CH2OH)2
+3082
+105.1356
+301.1
+541.234
+736.5
+ZBCBWPMODOFKDW-UHFFFAOYSA-N
+393cd060
+
+DECANE.FLD
+ 43241583333 
+Decane
+Decane
+Decane
+n-Decane
+124-18-5
+C10H22
+CH3-8(CH2)-CH3
+2247
+142.28168
+243.5
+447.27
+617.7
+DIOQZVSQGTUSAI-UHFFFAOYSA-N
+111888d0
+
+DEE.FLD
+ 43241583333 
+Diethyl ether
+Diethyl ether
+Diethyl ether
+Ethyl ether
+60-29-7
+C4H10O
+C4H10O
+1155
+74.1216
+156.92
+307.604
+466.7
+RTZKZFJDLAIYFH-UHFFFAOYSA-N
+46a701e0
+
+DMC.FLD
+ 43241583333 
+Dimethyl carbonate   (Dimethyl ester carbonic acid)
+Dimethyl carbonate
+Dimethyl ester carbonic acid
+DMC
+616-38-6
+C3H6O3
+C3H6O3
+1161
+90.0779
+277.06
+363.256
+557.0
+IEJIGPNLZYLLBP-UHFFFAOYSA-N
+859e6f80
+
+DME.FLD
+ 43241583333 
+Dimethyl ether   (Methoxymethane)
+Dimethyl ether
+Methoxymethane
+RE-170
+115-10-6
+C2H6O
+(CH3)2O
+1033
+46.06844
+131.66
+248.368
+400.378
+LCGLNKUTAGEVQW-UHFFFAOYSA-N
+8f27e300
+
+EBENZENE.FLD
+ 43241583333 
+Ethylbenzene   (Phenylethane)
+Ethylbenzene
+Phenylethane
+Benzene, ethyl-
+100-41-4
+C8H10
+C8H10
+????
+106.165
+178.2
+409.314
+617.12
+YNQLUTRBYVCPMQ-UHFFFAOYSA-N
+a4c64370
+
+EGLYCOL.FLD
+ 43241583333 
+Ethylene glycol   (1,2-Ethandiol)
+Ethylene glycol
+1,2-Ethandiol
+Glycol alcohol
+107-21-1
+C2H6O2
+OH(CH2CH2)OH
+3082
+62.06784
+260.6
+470.313
+719.0
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+7d1768e0
+
+ETHANE.FLD
+ 43241583333 
+Ethane
+Ethane
+Ethane
+R-170
+74-84-0
+C2H6
+CH3CH3
+1035
+30.06904
+90.368
+184.569
+305.322
+OTMSDBZUPAUEDD-UHFFFAOYSA-N
+434e2a40
+
+ETHANOL.FLD
+ 43241583333 
+Ethanol   (Ethyl alcohol)
+Ethanol
+Ethyl alcohol
+Methyl carbinol
+64-17-5
+C2H6O
+C2H6O
+1170
+46.06844
+159.0
+351.57
+514.71
+LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+3d5f67e0
+
+ETHYLENE.FLD
+ 43241583333 
+Ethylene   (Ethene)
+Ethylene
+Ethene
+R-1150
+74-85-1
+C2H4
+CH2=CH2
+1962
+28.05376
+103.986
+169.379
+282.35
+VGGSQFUCUMXWEO-UHFFFAOYSA-N
+9c1062b0
+
+FLUORINE.FLD
+ 43244778634 
+Fluorine
+Fluorine
+Fluorine
+Fluorine
+7782-41-4
+F2
+F2
+1045
+37.99681
+53.4811
+85.0368
+144.414
+PXGOKWXKJXAPGV-UHFFFAOYSA-N
+cdc99fe0
+
+H2S.FLD
+ 43241583333 
+Hydrogen sulfide
+Hydrogen sulfide
+Hydrogen sulfide
+Dihydrogen monosulfide
+7783-06-4
+H2S
+H2S
+1053
+34.08088
+187.7
+212.85
+373.1
+RWSOTUBLDIXVET-UHFFFAOYSA-N
+c6c03020
+
+HCL.FLD
+ 43241583333 
+Hydrogen chloride
+Hydrogen chloride
+Hydrogen chloride
+Hydrogen chloride
+7647-01-0
+HCl
+HCl
+1789
+36.46094
+159.07
+188.173
+324.68
+VEXZGXHMUGYJMC-UHFFFAOYSA-N
+74b17450
+
+HELIUM.FLD
+ 43241583333 
+Helium   (Helium-4)
+Helium
+Helium-4
+R-704
+7440-59-7
+He
+He
+1046
+4.002602
+2.1768
+4.2238
+5.1953
+SWQJXJOGLNCZEY-UHFFFAOYSA-N
+3b8eed30
+
+HEPTANE.FLD
+ 43241583333 
+Heptane
+Heptane
+Heptane
+n-Heptane
+142-82-5
+C7H16
+CH3-5(CH2)-CH3
+1206
+100.202
+182.55
+371.550
+540.2
+IMNFDUFMRHMDMM-UHFFFAOYSA-N
+b398a3b0
+
+HEXANE.FLD
+ 43241583333 
+Hexane
+Hexane
+Hexane
+n-Hexane
+110-54-3
+C6H14
+CH3-4(CH2)-CH3
+1208
+86.17536
+177.83
+341.866
+507.82
+VLKZOEOYAKHREP-UHFFFAOYSA-N
+cb03ba40
+
+HYDROGEN.FLD
+ 43241583333 
+Hydrogen (normal)
+Hydrogen (normal)
+Hydrogen (normal)
+R-702
+1333-74-0
+H2
+H2
+1049
+2.01588
+13.957
+20.369
+33.145
+UFHFLCQGNIYNRP-UHFFFAOYSA-N
+8d757b40
+
+IBUTENE.FLD
+ 43241583333 
+Isobutene   (2-Methyl-1-propene)
+Isobutene
+2-Methyl-1-propene
+Methylpropene
+115-11-7
+C4H8
+CH2=C(CH3)2
+1055
+56.10632
+132.4
+266.15
+418.09
+VQTUBCCKSQIDNK-UHFFFAOYSA-N
+d287e4b0
+
+IHEXANE.FLD
+ 43241583333 
+Isohexane   (2-Methylpentane)
+Isohexane
+2-Methylpentane
+Methylpentane
+107-83-5
+C6H14
+(CH3)2CH(CH2)2CH3
+1208
+86.17536
+119.6
+333.36
+497.7
+AFABGHUZZDYHJO-UHFFFAOYSA-N
+faa2db70
+
+IOCTANE.FLD
+ 43241583333 
+Isooctane   (2,2,4-Trimethylpentane)
+Isooctane
+2,2,4-Trimethylpentane
+Isobutyltrimethylmethane
+540-84-1
+C8H18
+(CH3)2CHCH2C(CH3)3
+1262
+114.22852
+165.77
+372.358
+544.0
+NHTMVDHEPJAVLT-UHFFFAOYSA-N
+c2dd9ef0
+
+IPENTANE.FLD
+ 43241583333 
+Isopentane   (2-Methylbutane)
+Isopentane
+2-Methylbutane
+R-601a
+78-78-4
+C5H12
+(CH3)2CHCH2CH3
+1265
+72.14878
+112.65
+300.98
+460.35
+QWTDNUCVQCZILF-UHFFFAOYSA-N
+86ee46a0
+
+ISOBUTAN.FLD
+ 43241583333 
+Isobutane   (2-Methylpropane)
+Isobutane
+2-Methylpropane
+R-600a
+75-28-5
+C4H10
+CH(CH3)3
+1969
+58.1222
+113.73
+261.401
+407.81
+NNPPMTNAJDCUHE-UHFFFAOYSA-N
+47ade7e0
+
+KRYPTON.FLD
+ 43241583333 
+Krypton
+Krypton
+Krypton
+R-784
+7439-90-9
+Kr
+Kr
+1056, 1970
+83.798
+115.775
+119.73
+209.48
+DNNSSWSSYDEUBZ-UHFFFAOYSA-N
+d7c8c510
+
+MD2M.FLD
+ 43241583333 
+MD2M   (Decamethyltetrasiloxane)
+MD2M
+Decamethyltetrasiloxane
+MD2M
+141-62-8
+C10H30Si4O3
+C10H30Si4O3
+????
+310.6854
+205.2
+467.59
+599.4
+YFCGDEUVHLPRCZ-UHFFFAOYSA-N
+63e16330
+
+MD3M.FLD
+ 43241583333 
+MD3M   (Dodecamethylpentasiloxane)
+MD3M
+Dodecamethylpentasiloxane
+MD3M
+141-63-9
+C12H36Si5O4
+C12H36Si5O4
+????
+384.839
+192.0
+503.032
+628.96
+FBZANXDWQAVSTQ-UHFFFAOYSA-N
+7d394df0
+
+MD4M.FLD
+ 43241583333 
+MD4M   (Tetradecamethylhexasiloxane)
+MD4M
+Tetradecamethylhexasiloxane
+MD4M
+107-52-8
+C14H42O5Si6
+C14H42O5Si6
+????
+458.99328
+214.15
+532.905
+653.2
+ADANNTOYRVPQLJ-UHFFFAOYSA-N
+eabdcbe0
+
+MDM.FLD
+ 43241583333 
+MDM   (Octamethyltrisiloxane)
+MDM
+Octamethyltrisiloxane
+MDM
+107-51-7
+C8H24O2Si3
+C8H24O2Si3
+????
+236.53146
+187.2
+425.630
+565.3609
+CXQXSVUQTKDNFP-UHFFFAOYSA-N
+4be67b80
+
+MEA.FLD
+ 43241583333 
+Monoethanolamine   (Ethanolamine)
+Monoethanolamine
+Ethanolamine
+2-Aminoethanol
+141-43-5
+C2H7NO
+HOCH2CH2NH2
+2491
+61.0831
+283.7
+443.564
+671.4
+HZAXFHJVJLSVMW-UHFFFAOYSA-N
+27b11730
+
+METHANE.FLD
+ 43241583333 
+Methane
+Methane
+Methane
+R-50
+74-82-8
+CH4
+CH4
+1971, 1972
+16.0428
+90.6941
+111.667
+190.564
+VNWKTOKETHGBQD-UHFFFAOYSA-N
+8ae7a700
+
+METHANOL.FLD
+ 43241583333 
+Methanol
+Methanol
+Methanol
+Methyl alcohol
+67-56-1
+CH4O
+CH3OH
+1230
+32.04216
+175.61
+337.632
+512.6
+OKKJLVBELUTLKV-UHFFFAOYSA-N
+c41aa690
+
+MLINOLEA.FLD
+ 43247665902 
+Methyl linoleate   (Methyl (Z,Z)-9,12-octadecadienoate)
+Methyl linoleate
+Methyl (Z,Z)-9,12-octadecadienoate
+Methyl ester(Z,Z)-9,12-octadecadienoic acid
+112-63-0
+C19H34O2
+C19H34O2
+????
+294.47206
+238.1
+628.84
+799.0
+WTTJVINHCBCLGX-NQLNTKRDSA-N
+b61b9eb0
+
+MLINOLEN.FLD
+ 43247665995 
+Methyl linolenate   (Methyl (Z,Z,Z)-9,12,15-octadecatrienoate)
+Methyl linolenate
+Methyl (Z,Z,Z)-9,12,15-octadecatrienoate
+Methyl ester linolenic acid
+301-00-8
+C19H32O2
+C19H32O2
+????
+292.45618
+218.65
+629.13
+772.0
+DVWSXZIHSUZZKJ-YSTUJMKBSA-N
+298c8c80
+
+MM.FLD
+ 43241583333 
+MM   (Hexamethyldisiloxane)
+MM
+Hexamethyldisiloxane
+MM
+107-46-0
+C6H18OSi2
+C6H18OSi2
+????
+162.3768
+204.93
+373.658
+518.7
+UQEAIHBTYFGYIE-UHFFFAOYSA-N
+78082e80
+
+MOLEATE.FLD
+ 43247665717 
+Methyl oleate   (Methyl cis-9-octadecenoate)
+Methyl oleate
+Methyl cis-9-octadecenoate
+Methyl ester oleic acid
+112-62-9
+C19H36O2
+C19H36O2
+????
+296.48794
+253.47
+627.18
+782.0
+QYDYPVFESGNLHU-KHPPLWFESA-N
+f300b9e0
+
+MPALMITA.FLD
+ 43247665810 
+Methyl palmitate   (Methyl hexadecanoate)
+Methyl palmitate
+Methyl hexadecanoate
+Methyl ester palmitic acid
+112-39-0
+C17H34O2
+C17H34O2
+????
+270.45066
+302.71
+602.269
+755.0
+FLIACVVOZYBSBS-UHFFFAOYSA-N
+27c9ec60
+
+MSTEARAT.FLD
+ 43247666134 
+Methyl stearate   (Methyl octadecanoate)
+Methyl stearate
+Methyl octadecanoate
+Methyl ester stearic acid
+112-61-8
+C19H38O2
+C19H38O2
+????
+298.50382
+311.84
+629.56
+775.0
+HPEUJPJOZXNMSJ-UHFFFAOYSA-N
+81403130
+
+MXYLENE.FLD
+ 43241583333 
+m-Xylene   (1,3-Dimethylbenzene)
+m-Xylene
+1,3-Dimethylbenzene
+m-Xylene
+108-38-3
+C8H10
+C8H10
+????
+106.165
+225.3
+412.214
+616.89
+IVSZLXZYQVIEFR-UHFFFAOYSA-N
+0f99ff70
+
+N2O.FLD
+ 43244775856 
+Nitrous oxide   (Dinitrogen monoxide)
+Nitrous oxide
+Dinitrogen monoxide
+R-744A
+10024-97-2
+N2O
+N2O
+1070
+44.0128
+182.33
+184.68
+309.52
+GQPLMRYTRLFLPF-UHFFFAOYSA-N
+e0647c00
+
+NEON.FLD
+ 43241583333 
+Neon
+Neon
+Neon
+R-720
+7440-01-9
+Ne
+Ne
+1065, 1913
+20.179
+24.5561
+27.1000
+44.4
+GKAOGPIIYCISHV-UHFFFAOYSA-N
+b912fce0
+
+NEOPENTN.FLD
+ 43241583333 
+Neopentane   (2,2-Dimethylpropane)
+Neopentane
+2,2-Dimethylpropane
+Tetramethylmethane
+463-82-1
+C5H12
+C(CH3)4
+1265, 2044
+72.14878
+256.6
+282.65
+433.74
+CRSOQBOWXPBRES-UHFFFAOYSA-N
+5a410790
+
+NF3.FLD
+ 43254316921 
+Nitrogen trifluoride
+Nitrogen trifluoride
+Nitrogen trifluoride
+Trifluoroamine
+7783-54-2
+F3N
+NF3
+2451
+71.019
+66.36
+144.138
+234.0
+GVGCUCJTUSOZKP-UHFFFAOYSA-N
+6db4e3b0
+
+NITROGEN.FLD
+ 43241583333 
+Nitrogen
+Nitrogen
+Nitrogen
+R-728
+7727-37-9
+N2
+N2
+1066, 1977
+28.01348
+63.151
+77.355
+126.192
+IJGRMHOSHXDMSA-UHFFFAOYSA-N
+edbdc8e0
+
+NONANE.FLD
+ 43241583333 
+Nonane
+Nonane
+Nonane
+n-Nonane
+111-84-2
+C9H20
+CH3-7(CH2)-CH3
+1920
+128.2551
+219.7
+423.91
+594.55
+BKIMMITUMNQMOS-UHFFFAOYSA-N
+7f94dc20
+
+NOVEC649.FLD
+ 43241583333 
+Novec 649, 1230   (1,1,1,2,2,4,5,5,5-Nonafluoro-4-(trifluoromethyl)-3-pentanone)
+Novec 649, 1230
+1,1,1,2,2,4,5,5,5-Nonafluoro-4-(trifluoromethyl)-3-pentanone
+Dodecafluoro-2-methylpentan-3-one
+756-13-8
+C6F12O
+CF3CF2C(=O)CF(CF3)2
+????
+316.0444
+165.
+322.202
+441.81
+RMLFHPWPTXWZNJ-UHFFFAOYSA-N
+a9e22c00
+
+OCTANE.FLD
+ 43249878819 
+Octane
+Octane
+Octane
+n-Octane
+111-65-9
+C8H18
+CH3-6(CH2)-CH3
+1262
+114.2285
+216.37
+398.794
+568.74
+TVMXDCGIABBOFY-UHFFFAOYSA-N
+f174a9b0
+
+ORTHOHYD.FLD
+ 43241583333 
+Orthohydrogen
+Orthohydrogen
+Orthohydrogen
+R-702
+1333-74-0o
+H2
+H2
+1049
+2.01594
+14.008
+20.380
+33.22
+????
+8d757b4b
+
+OXYGEN.FLD
+ 43241583333 
+Oxygen
+Oxygen
+Oxygen
+R-732
+7782-44-7
+O2
+O2
+1072, 1073
+31.9988
+54.361
+90.1878
+154.581
+MYMOFIZGZYHOMD-UHFFFAOYSA-N
+edc36840
+
+OXYLENE.FLD
+ 43241583333 
+o-Xylene   (1,2-Dimethylbenzene)
+o-Xylene
+1,2-Dimethylbenzene
+o-Xylene
+95-47-6
+C8H10
+C8H10
+????
+106.165
+247.985
+417.521
+630.259
+CTQNGGLPUBDAKN-UHFFFAOYSA-N
+32008e80
+
+PARAHYD.FLD
+ 43241583333 
+Parahydrogen
+Parahydrogen
+Parahydrogen
+R-702p
+1333-74-0p
+H2
+H2
+1049
+2.01588
+13.8033
+20.271
+32.938
+????
+8d757b4a
+
+PENTANE.FLD
+ 43241583333 
+Pentane
+Pentane
+Pentane
+R-601
+109-66-0
+C5H12
+CH3-3(CH2)-CH3
+1265
+72.14878
+143.47
+309.209
+469.7
+OFBQJSOFQDEBGM-UHFFFAOYSA-N
+76bc0290
+
+PROPANE.FLD
+ 43241583333 
+Propane
+Propane
+Propane
+R-290
+74-98-6
+C3H8
+CH3CH2CH3
+1075, 1978
+44.09562
+85.525
+231.036
+369.89
+ATUOYWHBWRKTHZ-UHFFFAOYSA-N
+70c6aac0
+
+PROPYLEN.FLD
+ 43241583333 
+Propylene   (Propene)
+Propylene
+Propene
+R-1270
+115-07-1
+C3H6
+CH2=CH-CH3
+1075, 1077
+42.07974
+87.953
+225.531
+364.211
+QQONPFPTGQHPMA-UHFFFAOYSA-N
+56d778b0
+
+PROPYNE.FLD
+ 43244775532 
+Propyne
+Propyne
+Propyne
+Methyl acetylene
+74-99-7
+C3H4
+CH3CCH
+1060
+40.06386
+170.5
+250.0
+402.38
+MWWATHDPGQKSAR-UHFFFAOYSA-N
+3cbb9620
+
+PXYLENE.FLD
+ 43241583333 
+p-Xylene   (1,4-Dimethylbenzene)
+p-Xylene
+1,4-Dimethylbenzene
+p-Xylene
+106-42-3
+C8H10
+C8H10
+1307
+106.165
+286.4
+411.470
+616.168
+URLKBWYHVLBVBO-UHFFFAOYSA-N
+01b0e650
+
+R11.FLD
+ 43241583333 
+R11   (Trichlorofluoromethane)
+R11
+Trichlorofluoromethane
+CFC-11
+75-69-4
+CCl3F
+CCl3F
+????
+137.368
+162.68
+296.858
+471.11
+CYRMSUTZVYGINF-UHFFFAOYSA-N
+6f9b71e0
+
+R1123.FLD
+ 43241583333 
+R1123   (Trifluoroethylene)
+R1123
+Trifluoroethylene
+HFO-1123
+359-11-5
+C2HF3
+CF2=CHF
+????
+82.02455
+200.
+214.06
+331.73
+MIZLGWKEZAPEFJ-UHFFFAOYSA-N
+64555530
+
+R113.FLD
+ 43241583333 
+R113   (1,1,2-Trichloro-1,2,2-trifluoroethane)
+R113
+1,1,2-Trichloro-1,2,2-trifluoroethane
+CFC-113
+76-13-1
+C2Cl3F3
+CCl2FCClF2
+????
+187.375
+236.93
+320.735
+487.21
+AJDIZQLSFPQPEY-UHFFFAOYSA-N
+d2a09ee0
+
+R114.FLD
+ 43241583333 
+R114   (1,2-Dichloro-1,1,2,2-tetrafluoroethane)
+R114
+1,2-Dichloro-1,1,2,2-tetrafluoroethane
+CFC-114
+76-14-2
+C2Cl2F4
+CClF2CClF2
+1958
+170.921
+180.63
+276.741
+418.83
+DDMOUSALMHHKOS-UHFFFAOYSA-N
+b1698aa0
+
+R115.FLD
+ 43241583333 
+R115   (Chloropentafluoroethane)
+R115
+Chloropentafluoroethane
+CFC-115
+76-15-3
+C2ClF5
+CClF2CF3
+1020
+154.466416
+173.75
+233.932
+353.1
+RFCAUADVODFSLZ-UHFFFAOYSA-N
+f7285250
+
+R116.FLD
+ 43241583333 
+R116   (Hexafluoroethane)
+R116
+Hexafluoroethane
+FC-116
+76-16-4
+C2F6
+CF3CF3
+2193
+138.01182
+173.1
+195.06
+293.03
+WMIYKQLTONQJES-UHFFFAOYSA-N
+04997260
+
+R12.FLD
+ 43241583333 
+R12   (Dichlorodifluoromethane)
+R12
+Dichlorodifluoromethane
+CFC-12
+75-71-8
+CCl2F2
+CCl2F2
+1028
+120.913
+116.099
+243.398
+385.12
+PXBRQCKWGAHEHS-UHFFFAOYSA-N
+98829b70
+
+R1216.FLD
+ 43241583333 
+R1216   (Hexafluoropropene)
+R1216
+Hexafluoropropene
+Hexafluoropropylene
+116-15-4
+C3F6
+C3F6
+????
+150.0225192
+117.654
+242.81
+358.9
+HCDGVLDPFQMKDK-UHFFFAOYSA-N
+edc3a7b0
+
+R1224YDZ.FLD
+ 43241583333 
+R1224yd(Z)   ((Z)-1-Chloro-2,3,3,3-tetrafluoropropene)
+R1224yd(Z)
+(Z)-1-Chloro-2,3,3,3-tetrafluoropropene
+HCFO-1224yd(Z)
+111512-60-8
+C3HClF4
+CF3CF=CHCl (cis)
+????
+148.4867
+263.
+287.767
+428.69
+GDPWRLVSJWKGPJ-UPHRSURJSA-N
+55d0af00
+
+R123.FLD
+ 43241583333 
+R123   (2,2-Dichloro-1,1,1-trifluoroethane)
+R123
+2,2-Dichloro-1,1,1-trifluoroethane
+HCFC-123
+306-83-2
+C2HCl2F3
+CHCl2CF3
+????
+152.931
+166.0
+300.973
+456.831
+OHMHBGPWCHTMQE-UHFFFAOYSA-N
+efdfede0
+
+R1233ZDE.FLD
+ 43241583333 
+R1233zd(E)   (trans-1-Chloro-3,3,3-trifluoro-1-propene)
+R1233zd(E)
+trans-1-Chloro-3,3,3-trifluoro-1-propene
+HFO-1233zd(E)
+102687-65-0
+C3H2ClF3
+CF3CH=CHCl
+3163
+130.4962
+195.15
+291.413
+439.6
+LDTMPQQAWUMPKS-OWOJBTEDSA-N
+bf17dfe0
+
+R1234YF.FLD
+ 43241583333 
+R1234yf   (2,3,3,3-Tetrafluoroprop-1-ene)
+R1234yf
+2,3,3,3-Tetrafluoroprop-1-ene
+R-1234yf
+754-12-1
+C3F4H2
+CF3CF=CH2
+3161
+114.0415928
+122.77
+243.665
+367.85
+FXRLMCRCYDHQFW-UHFFFAOYSA-N
+40377b40
+
+R1234ZEE.FLD
+ 43241583333 
+R1234ze(E)   (trans-1,3,3,3-Tetrafluoropropene)
+R1234ze(E)
+trans-1,3,3,3-Tetrafluoropropene
+HFO-1234ze(E)
+29118-24-9
+C3F4H2
+CHF=CHCF3 (trans)
+????
+114.0416
+169.0
+254.177
+382.513
+CDOOAUSHHFGWSA-OWOJBTEDSA-N
+9905ef70
+
+R1234ZEZ.FLD
+ 43241583333 
+R1234ze(Z)   (cis-1,3,3,3-Tetrafluoropropene)
+R1234ze(Z)
+cis-1,3,3,3-Tetrafluoropropene
+R-1234ze(Z)
+29118-25-0
+C3F4H2
+CHF=CHCF3 (cis)
+????
+114.0416
+238.
+282.878
+423.27
+CDOOAUSHHFGWSA-UPHRSURJSA-N
+e23fd030
+
+R124.FLD
+ 43241583333 
+R124   (1-Chloro-1,2,2,2-tetrafluoroethane)
+R124
+1-Chloro-1,2,2,2-tetrafluoroethane
+HCFC-124
+2837-89-0
+C2HClF4
+CHClFCF3
+1021
+136.4762
+74.
+261.187
+395.425
+BOUGCJDAQLKBQH-UHFFFAOYSA-N
+36953260
+
+R1243ZF.FLD
+ 43241583333 
+R1243zf   (3,3,3-Trifluoropropene)
+R1243zf
+3,3,3-Trifluoropropene
+HFO-1243zf
+677-21-4
+C3H3F3
+CH2=CHCF3
+????
+96.05113
+200.
+247.726
+376.93
+FDMFUZHCIRHGRG-UHFFFAOYSA-N
+86479e20
+
+R125.FLD
+ 43241583333 
+R125   (Pentafluoroethane)
+R125
+Pentafluoroethane
+HFC-125
+354-33-6
+C2HF5
+CHF2CF3
+3220
+120.0214
+172.52
+225.06
+339.173
+GTLACDSXYULKMZ-UHFFFAOYSA-N
+25c5a3a0
+
+R13.FLD
+ 43241583333 
+R13   (Chlorotrifluoromethane)
+R13
+Chlorotrifluoromethane
+CFC-13
+75-72-9
+CClF3
+CClF3
+1022
+104.459
+92.0
+191.67
+302.0
+AFYPFACVUDMOHA-UHFFFAOYSA-N
+126c90a0
+
+R134A.FLD
+ 43241583333 
+R134a   (1,1,1,2-Tetrafluoroethane)
+R134a
+1,1,1,2-Tetrafluoroethane
+HFC-134a
+811-97-2
+C2H2F4
+CF3CH2F
+3159
+102.032
+169.85
+247.076
+374.21
+LVGUZGTVOIAKKC-UHFFFAOYSA-N
+ff1c0560
+
+R14.FLD
+ 43241583333 
+R14   (Tetrafluoromethane)
+R14
+Tetrafluoromethane
+FC-14
+75-73-0
+CF4
+CF4
+1982
+88.0046
+89.54
+145.10
+227.51
+TXEYQDLBPFQVAA-UHFFFAOYSA-N
+dba9f950
+
+R141B.FLD
+ 43241583333 
+R141b   (1,1-Dichloro-1-fluoroethane)
+R141b
+1,1-Dichloro-1-fluoroethane
+HCFC-141b
+1717-00-6
+C2H3Cl2F
+CCl2FCH3
+????
+116.94962
+169.68
+305.20
+477.5
+FRCHKSNAZZFGCA-UHFFFAOYSA-N
+ba322c10
+
+R142B.FLD
+ 43241583333 
+R142b   (1-Chloro-1,1-difluoroethane)
+R142b
+1-Chloro-1,1-difluoroethane
+HCFC-142b
+75-68-3
+C2H3ClF2
+CClF2CH3
+2517
+100.49503
+142.72
+264.03
+410.26
+BHNZEZWIUMJCGF-UHFFFAOYSA-N
+f2a8b2e0
+
+R143A.FLD
+ 43241583333 
+R143a   (1,1,1-Trifluoroethane)
+R143a
+1,1,1-Trifluoroethane
+HFC-143a
+420-46-2
+C2H3F3
+CF3CH3
+2035
+84.041
+161.34
+225.909
+345.857
+UJPMYEOUBPIPHQ-UHFFFAOYSA-N
+0deae990
+
+R150.FLD
+ 43241583333 
+Dichloroethane   (1,2-Dichloroethane)
+Dichloroethane
+1,2-Dichloroethane
+R-150
+107-06-2
+C2H4Cl2
+C2H4Cl2
+1184
+98.9592
+237.52
+356.650
+561.6
+WSLDOOZREJYCGB-UHFFFAOYSA-N
+042f81b0
+
+R152A.FLD
+ 43241583333 
+R152a   (1,1-Difluoroethane)
+R152a
+1,1-Difluoroethane
+HFC-152a
+75-37-6
+C2H4F2
+CHF2CH3
+1030
+66.051
+154.56
+249.127
+386.411
+NPNPZTNLOVBDOC-UHFFFAOYSA-N
+63f364b0
+
+R161.FLD
+ 43241583333 
+R161   (Fluoroethane)
+R161
+Fluoroethane
+Ethyl fluoride
+353-36-6
+C2H5F
+C2H5F
+2453
+48.0595
+130.0
+235.614
+375.25
+UHCBBWUQDAVSMS-UHFFFAOYSA-N
+edb53660
+
+R21.FLD
+ 43241583333 
+R21   (Dichlorofluoromethane)
+R21
+Dichlorofluoromethane
+HCFC-21
+75-43-4
+CHCl2F
+CHCl2F
+1029
+102.9227
+142.8
+282.01
+451.48
+UMNKXPULIDJLSU-UHFFFAOYSA-N
+79ff2f80
+
+R218.FLD
+ 43241583333 
+R218   (Octafluoropropane)
+R218
+Octafluoropropane
+Perfluoropropane
+76-19-7
+C3F8
+CF3CF2CF3
+2424
+188.01933
+125.45
+236.36
+345.02
+QYSGYZVSCZSLHT-UHFFFAOYSA-N
+00bd3610
+
+R22.FLD
+ 43241583333 
+R22   (Chlorodifluoromethane)
+R22
+Chlorodifluoromethane
+HCFC-22
+75-45-6
+CHClF2
+CHClF2
+1018
+86.468
+115.73
+232.340
+369.295
+VOPWNXZWBYDODV-UHFFFAOYSA-N
+57716470
+
+R227EA.FLD
+ 43241583333 
+R227ea   (1,1,1,2,3,3,3-Heptafluoropropane)
+R227ea
+1,1,1,2,3,3,3-Heptafluoropropane
+HFC-227ea
+431-89-0
+C3HF7
+CF3CHFCF3
+3296
+170.02886
+146.35
+256.81
+374.9
+YFMFNYKEUDLDTL-UHFFFAOYSA-N
+40091ee0
+
+R23.FLD
+ 43241583333 
+R23   (Trifluoromethane)
+R23
+Trifluoromethane
+HFC-23
+75-46-7
+CHF3
+CHF3
+1984
+70.01385
+118.02
+191.132
+299.293
+XPDWGBQVDMORPB-UHFFFAOYSA-N
+20e26c20
+
+R236EA.FLD
+ 43241583333 
+R236ea   (1,1,1,2,3,3-Hexafluoropropane)
+R236ea
+1,1,1,2,3,3-Hexafluoropropane
+HFC-236ea
+431-63-0
+C3H2F6
+CF3CHFCHF2
+????
+152.0384
+170.0
+279.322
+412.44
+FYIRUPZTYPILDH-UHFFFAOYSA-N
+93fd5d40
+
+R236FA.FLD
+ 43241583333 
+R236fa   (1,1,1,3,3,3-Hexafluoropropane)
+R236fa
+1,1,1,3,3,3-Hexafluoropropane
+HFC-236fa
+690-39-1
+C3H2F6
+CF3CH2CF3
+????
+152.0384
+179.6
+271.66
+398.07
+NSGXIBWMJZWTPY-UHFFFAOYSA-N
+77fa2150
+
+R245CA.FLD
+ 43241583333 
+R245ca   (1,1,2,2,3-Pentafluoropropane)
+R245ca
+1,1,2,2,3-Pentafluoropropane
+HFC-245ca
+679-86-7
+C3H3F5
+CHF2CF2CH2F
+????
+134.04794
+196.0
+298.412
+447.57
+AWTOFSDLNREIFS-UHFFFAOYSA-N
+ead82280
+
+R245FA.FLD
+ 43241583333 
+R245fa   (1,1,1,3,3-Pentafluoropropane)
+R245fa
+1,1,1,3,3-Pentafluoropropane
+HFC-245fa
+460-73-1
+C3H3F5
+CF3CH2CHF2
+????
+134.04794
+170.0
+288.198
+427.01
+MSSNHSVIGIHOJA-UHFFFAOYSA-N
+5c322280
+
+R32.FLD
+ 43241583333 
+R32   (Difluoromethane)
+R32
+Difluoromethane
+HFC-32
+75-10-5
+CH2F2
+CH2F2
+3252
+52.024
+136.34
+221.499
+351.255
+RWRIWBAIICGTTQ-UHFFFAOYSA-N
+7b05bb60
+
+R365MFC.FLD
+ 43241583333 
+R365mfc   (1,1,1,3,3-Pentafluorobutane)
+R365mfc
+1,1,1,3,3-Pentafluorobutane
+HFC-365mfc
+406-58-6
+C4H5F5
+CF3CH2CF2CH3
+????
+148.07452
+239.0
+313.343
+460.0
+WZLFPVPRZGTCKP-UHFFFAOYSA-N
+9d316cb0
+
+R40.FLD
+ 43241583333 
+R40   (Methyl chloride)
+R40
+Methyl chloride
+Methyl chloride
+74-87-3
+CH3Cl
+CH3Cl
+1063
+50.48752
+175.51
+249.173
+416.3
+NEHMKBQYUWJMIP-UHFFFAOYSA-N
+2b938200
+
+R41.FLD
+ 43241583333 
+R41   (Fluoromethane)
+R41
+Fluoromethane
+HFC-41
+593-53-3
+CH3F
+CH3F
+2454
+34.03292
+129.82
+194.84
+317.28
+NBVXSUQYWXRMNV-UHFFFAOYSA-N
+8ee31230
+
+RC318.FLD
+ 43241583333 
+RC318   (Octafluorocyclobutane)
+RC318
+Octafluorocyclobutane
+FC-C318
+115-25-3
+C4F8
+cyclo-C4F8
+1976
+200.04
+233.35
+267.175
+388.38
+BCCOBQSFUDVTJQ-UHFFFAOYSA-N
+9e4d8e90
+
+RE143A.FLD
+ 43241583333 
+RE143a   (Methyl trifluoromethyl ether)
+RE143a
+Methyl trifluoromethyl ether
+HFE-143a
+421-14-7
+C2H3F3O
+CH3-O-CF3
+????
+100.0398
+240.
+249.572
+377.921
+JRHMNRMPVRXNOS-UHFFFAOYSA-N
+bf6c1a00
+
+RE245CB2.FLD
+ 43241583333 
+RE245cb2   (Methyl-pentafluoroethyl-ether)
+RE245cb2
+Methyl-pentafluoroethyl-ether
+HFE-245cb2
+22410-44-2
+C3H3F5O
+CF3CF2OCH3
+????
+150.047336
+250.
+278.76
+406.813
+GCDWNCOAODIANN-UHFFFAOYSA-N
+82e9e4f0
+
+RE245FA2.FLD
+ 43241583333 
+RE245fa2   (2,2,2-Trifluoroethyl-difluoromethyl-ether)
+RE245fa2
+2,2,2-Trifluoroethyl-difluoromethyl-ether
+HFE-245fa2
+1885-48-9
+C3H3F5O
+CHF2OCH2CF3
+????
+150.047336
+250.
+302.4
+444.88
+ZASBKNPRLPFSCA-UHFFFAOYSA-N
+a7275d70
+
+RE347MCC.FLD
+ 43241583333 
+RE347mcc (HFE-7000)   (1,1,1,2,2,3,3-Heptafluoro-3-methoxypropane)
+RE347mcc (HFE-7000)
+1,1,1,2,2,3,3-Heptafluoro-3-methoxypropane
+HFE-7000
+375-03-1
+C4H3F7O
+CF3CF2CF2OCH3
+????
+200.0548424
+150.65
+307.328
+437.7
+NOPJRYAFUXTDLX-UHFFFAOYSA-N
+12934ef0
+
+SF6.FLD
+ 43241583333 
+Sulfur hexafluoride
+Sulfur hexafluoride
+Sulfur hexafluoride
+Sulfur fluoride
+2551-62-4
+SF6
+SF6
+1080
+146.0554192
+223.555
+204.9
+318.7232
+SFZCNBIFKDRMGX-UHFFFAOYSA-N
+7a75e610
+
+SO2.FLD
+ 43253545439 
+Sulfur dioxide
+Sulfur dioxide
+Sulfur dioxide
+R-764
+7446-09-5
+O2S
+SO2
+1079
+64.0638
+197.7
+263.137
+430.64
+RAHZWNYVWXNFOC-UHFFFAOYSA-N
+7fad4b80
+
+T2BUTENE.FLD
+ 43241583333 
+trans-Butene   (trans-2-Butene)
+trans-Butene
+trans-2-Butene
+(E)-2-Butene
+624-64-6
+C4H8
+CH3-CH=CH-CH3
+1012
+56.10632
+167.6
+274.03
+428.61
+IAQRGUVFOMOMEM-ONEGZZNKSA-N
+b28337f0
+
+TOLUENE.FLD
+ 43241583333 
+Toluene   (Methylbenzene)
+Toluene
+Methylbenzene
+Toluene
+108-88-3
+C7H8
+CH3-C6H5
+1294
+92.13842
+178.0
+383.75
+591.75
+YXFVVABEGXRONW-UHFFFAOYSA-N
+a49b8b50
+
+WATER.FLD
+ 43241583333 
+Water
+Water
+Water
+R-718
+7732-18-5
+H2O
+H2O
+????
+18.015268
+273.16
+373.1243
+647.096
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+b43a7600
+
+XENON.FLD
+ 43241583333 
+Xenon
+Xenon
+Xenon
+Xenon
+7440-63-3
+Xe
+Xe
+2036
+131.293
+161.405
+165.05
+289.733
+FHNFHKCVQCLJFQ-UHFFFAOYSA-N
+71fd7fa0
+
+POE9.FLD
+ 43253494490 
+POE9   (XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX)
+POE9
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+POE9
+XXXXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+????
+697.0
+250.
+594.
+730.
+????
+????
+
+POE5.FLD
+ 43229631643 
+POE5   (pentaerythritol tetrapentanoate)
+POE5
+pentaerythritol tetrapentanoate
+POE5
+15834-04-5
+C25H44O8
+C25H44O8
+????
+472.6
+250.
+594.
+730.
+????
+????
+
+AIR.PPF
+ 43250899236 
+Air (dry)   (nitrogen + oxygen + argon (0.7812/0.2096/0.0092))
+Air (dry)
+nitrogen + oxygen + argon (0.7812/0.2096/0.0092)
+R-729
+AIR-N2ARO2
+N2+Ar+O2
+N2+Ar+O2
+????
+28.96546
+59.75
+78.903
+132.5306
+????
+a7821920
+
+R507A.PPF
+ 43241583333 
+R507A   (50% R125/50% R143a)
+R507A
+50% R125/50% R143a
+R507A
+507A-507A
+R507A
+R507A
+????
+98.8592
+200.0
+226.41
+343.765
+????
+507a507a
+
+R410A.PPF
+ 43241583333 
+R410A   (50% R32/50% R125)
+R410A
+50% R32/50% R125
+R410A
+410A-410A
+R410A
+R410A
+????
+72.5854
+200.0
+221.71
+344.494
+????
+410a410a
+
+R407C.PPF
+ 43241583333 
+R407C   (23% R32/25% R125/52% R134a)
+R407C
+23% R32/25% R125/52% R134a
+R407C
+407C-407C
+R407C
+R407C
+????
+86.2036
+200.0
+229.52
+359.345
+????
+407c407c
+
+R404A.PPF
+ 43241583333 
+R404A   (44% R125/4% R134a/52% R143a)
+R404A
+44% R125/4% R134a/52% R143a
+R404A
+404A-404A
+R404A
+R404A
+????
+97.6038
+200.0
+226.93
+345.270
+????
+404a404a
+
